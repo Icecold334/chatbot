@@ -1,4 +1,5 @@
 import { View, type ViewProps } from 'react-native';
+import "../global.css";
 
 import { useThemeColor } from '@/hooks/use-theme-color';
 
